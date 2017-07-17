@@ -1,9 +1,16 @@
 .ire{
 	color: purple;
+	border: 2px solid;
+	width: 50%;
+	margin: 0 auto;
+		margin-bottom: 10px;
+	padding: 25px;
+	display:flex:;
+	flex-direction: row:;
 }
 
 .ire p{
-	font-size: 300px;
+	font-size: 25px;
 
 }
 
@@ -15,6 +22,31 @@
 
 .ire img{
 
-	height:75%;
-	width:100%;
+	height:50%;
+	width:80%;
+	padding: 0 auto;
+}
+.nav{
+		width:50%;
+		border:2px solid;
+		display:flex;
+		flex-direction:row;
+		justify-content: space-between;
+}
+
+.flex{
+		height:50vh;
+		width:50vw;
+		border:2px solid;
+		display:flex;
+		flex-direction:row;
+}
+
+.flexe{
+	width:30%;
+	height:30%;
+	border:2px dotted;
+}
+
+
 
